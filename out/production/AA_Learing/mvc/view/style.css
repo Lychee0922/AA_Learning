@@ -1,0 +1,7 @@
+.button {
+    -fx-background-color: lightblue;
+}
+
+.button:hover {
+    -fx-background-color: lightgreen;
+}
